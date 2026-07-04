@@ -2,11 +2,11 @@ class Solution(object):
     def increasingTriplet(self, nums):
         first = float('inf')
         second = float('inf')
-        for i in range(len(nums)):
-            if nums[i] <= first:
-                first = nums[i]
-            elif nums[i] <= second:
-                second = nums[i]
+        for i in nums:
+            if i <= first:
+                first = i
+            elif i <= second:
+                second = i
             else:
                 return True
         return False
