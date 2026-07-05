@@ -1,11 +1,7 @@
+from collections import Counter
 class Solution(object):
     def uniqueOccurrences(self, arr):
-        select = set(arr)
-        tmp = []
-        for i in select:
-            x = arr.count(i)
-            if x in tmp:
-                return False
-            tmp.append(x)
-        return True
+        select = Counter(arr)
+        fre = select.values()
+        return len(select) == len(set(fre))
         
