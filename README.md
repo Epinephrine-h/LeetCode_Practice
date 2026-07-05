@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
