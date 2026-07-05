@@ -1,15 +1,14 @@
 class Solution(object):
     def findDifference(self, nums1, nums2):
+        set1 = set(nums1)
+        set2 = set(nums2)
         ans1 = []
         ans2 = []
-        for i in nums1:
-            if i not in nums2 and i not in ans1:
+        for i in set1:
+            if i not in set2:
                 ans1.append(i)
-        for i in nums2:
-            if i not in nums1 and i not in ans2:
+        for i in set2:
+            if i not in set1:
                 ans2.append(i)
-        ans = []
-        ans.append(ans1)
-        ans.append(ans2)
-        return ans
+        return [ans1, ans2]
         
