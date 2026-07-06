@@ -11,11 +11,7 @@ class Solution(object):
                 if sum == target:
                     return target
                 elif sum > target:
-                    while left < right and nums[right] == nums[right-1]:
-                        right -= 1
                     right -= 1
                 else:
-                    while left < right and nums[left] == nums[left+1]:
-                        left += 1
                     left += 1
         return m
