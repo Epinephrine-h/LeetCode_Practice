@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 | [0238-product-of-array-except-self](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
