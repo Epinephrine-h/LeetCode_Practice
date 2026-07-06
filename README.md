@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0035-search-insert-position) |
 | [1004-max-consecutive-ones-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
