@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0283-move-zeroes) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0018-4sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
