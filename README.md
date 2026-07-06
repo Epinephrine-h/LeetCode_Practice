@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [2485-find-the-pivot-integer](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/2485-find-the-pivot-integer) |
 ## Stack
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
