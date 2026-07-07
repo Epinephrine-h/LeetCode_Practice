@@ -1,12 +1,15 @@
 class Solution(object):
     def sortColors(self, nums):
-        p0 = 0
-        for i in range(len(nums)):
-            if nums[i] == 0:
-                nums[i], nums[p0] = nums[p0], nums[i]
-                p0 += 1
+        p0 = cur = 0
         p2 = len(nums) - 1
-        for i in range(len(nums)-1, -1, -1):
-            if nums[i] == 2:
-                nums[i], nums[p2] = nums[p2], nums[i]
+        while cur <= p2:
+            if nums[cur] == 0:
+                nums[cur], nums[p0] = nums[p0], nums[cur]
+                p0 += 1
+                cur += 1
+            elif nums[cur] == 2:
+                nums[cur], nums[p2] = nums[p2], nums[cur]
                 p2 -= 1
+            else:
+                cur += 1
+            
