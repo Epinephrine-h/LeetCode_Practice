@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0605-can-place-flowers) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -107,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [2485-find-the-pivot-integer](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/2485-find-the-pivot-integer) |
 ## Stack
 |  |
@@ -138,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
