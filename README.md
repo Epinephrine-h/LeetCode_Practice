@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1137-n-th-tribonacci-number) |
 | [2485-find-the-pivot-integer](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/2485-find-the-pivot-integer) |
 ## Stack
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
