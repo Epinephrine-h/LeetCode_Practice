@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0338-counting-bits) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
