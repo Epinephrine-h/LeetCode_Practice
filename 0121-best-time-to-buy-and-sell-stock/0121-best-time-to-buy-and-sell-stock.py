@@ -3,7 +3,9 @@ class Solution(object):
         ans = 0
         buy = float('inf')
         for i in range(len(prices)):
-            ans = max(ans, prices[i] - buy)
-            buy = min(buy, prices[i])
+            if ans < prices[i] - buy:
+                ans = prices[i] - buy
+            if buy > prices[i]:
+                buy = prices[i]
         return ans
         
