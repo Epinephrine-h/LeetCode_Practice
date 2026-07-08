@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0035-search-insert-position) |
 | [0047-permutations-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0047-permutations-ii) |
+| [0063-unique-paths-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0338-counting-bits) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
