@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0063-unique-paths-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0047-permutations-ii) |
 ## Divide and Conquer
 |  |
