@@ -4,7 +4,7 @@ class Solution:
         odd = 1
         while even < len(nums):
             if nums[even] % 2 == 1:
-                while nums[odd] % 2 == 1:
+                while odd < len(nums) and nums[odd] % 2 == 1:
                     odd += 2
                 nums[even], nums[odd] = nums[odd], nums[even]
             even += 2
