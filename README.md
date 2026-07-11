@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0066-plus-one) |
@@ -224,9 +225,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0063-unique-paths-ii) |
 ## Counting Sort
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1122-relative-sort-array) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
