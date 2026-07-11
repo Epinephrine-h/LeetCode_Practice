@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
