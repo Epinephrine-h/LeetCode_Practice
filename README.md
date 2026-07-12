@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0389-find-the-difference) |
 | [1122-relative-sort-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1122-relative-sort-array) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0389-find-the-difference) |
 ## Bucket Sort
 |  |
 | ------- |
