@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0724-find-pivot-index) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1122-relative-sort-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1122-relative-sort-array) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
