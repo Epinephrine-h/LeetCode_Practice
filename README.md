@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0389-find-the-difference) |
