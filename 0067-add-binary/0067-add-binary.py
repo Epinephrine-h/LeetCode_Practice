@@ -10,5 +10,4 @@ class Solution:
             res.append(str(sum%2))
             pa -= 1
             pb -= 1
-        res.reverse()
-        return "".join(res)
+        return "".join(res[::-1])
