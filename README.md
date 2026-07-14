@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0283-move-zeroes) |
+| [0327-count-of-range-sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0327-count-of-range-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
+| [0327-count-of-range-sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0367-valid-perfect-square) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0169-majority-element) |
+| [0327-count-of-range-sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0327-count-of-range-sum) |
 ## Counting
 |  |
 | ------- |
@@ -315,4 +318,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0374-guess-number-higher-or-lower) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
