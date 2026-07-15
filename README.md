@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
