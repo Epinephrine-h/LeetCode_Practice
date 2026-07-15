@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0704-binary-search) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1122-relative-sort-array) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1122-relative-sort-array) |
 ## Simulation
 |  |
