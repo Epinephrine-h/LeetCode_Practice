@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0202-happy-number) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0066-plus-one) |
