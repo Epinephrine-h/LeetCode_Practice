@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0327-count-of-range-sum) |
 | [0334-increasing-triplet-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0389-find-the-difference) |
 ## Bucket Sort
