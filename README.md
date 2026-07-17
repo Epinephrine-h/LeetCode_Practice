@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0860-lemonade-change) |
+| [0888-fair-candy-swap](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0409-longest-palindrome) |
+| [0888-fair-candy-swap](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0561-array-partition) |
+| [0888-fair-candy-swap](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1122-relative-sort-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1122-relative-sort-array) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0704-binary-search) |
+| [0888-fair-candy-swap](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Math
