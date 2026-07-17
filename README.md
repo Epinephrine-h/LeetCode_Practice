@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0561-array-partition) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0561-array-partition) |
