@@ -2,12 +2,11 @@ class Solution:
     def convertToBase7(self, num: int) -> str:
         if num == 0:
             return "0"
-        sign = '-' if num < 0 else ''
-        num = -num if num < 0 else num
+        n = abs(num)
         mod = []
-        while num:
-            x = num % 7
-            num //= 7
+        while n:
+            x = n % 7
+            n //= 7
             mod.append(str(x))
-        mod.append(sign)
+        mod.append('-' if num < 0 else '')
         return "".join(mod[::-1])
