@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0860-lemonade-change) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1323-maximum-69-number) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1859-sorting-the-sentence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1859-sorting-the-sentence) |
