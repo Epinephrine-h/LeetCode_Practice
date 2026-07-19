@@ -8,5 +8,6 @@ class Solution:
             x = n % 7
             n //= 7
             mod.append(str(x))
-        mod.append('-' if num < 0 else '')
+        if num < 0:
+            mod.append('-')
         return "".join(mod[::-1])
