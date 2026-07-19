@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0443-string-compression) |
+| [0504-base-7](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0942-di-string-match) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0367-valid-perfect-square) |
+| [0504-base-7](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1323-maximum-69-number) |
