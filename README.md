@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0047-permutations-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0125-valid-palindrome) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0062-unique-paths) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0225-implement-stack-using-queues) |
 ## Trie
@@ -430,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
