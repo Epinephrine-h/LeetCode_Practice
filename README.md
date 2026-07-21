@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 ## Combinatorics
@@ -445,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0100-same-tree) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
