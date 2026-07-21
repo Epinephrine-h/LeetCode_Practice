@@ -426,16 +426,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0100-same-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
