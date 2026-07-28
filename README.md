@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1859-sorting-the-sentence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1859-sorting-the-sentence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1859-sorting-the-sentence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1859-sorting-the-sentence) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0561-array-partition) |
 | [1122-relative-sort-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1122-relative-sort-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Simulation
 |  |
 | ------- |
