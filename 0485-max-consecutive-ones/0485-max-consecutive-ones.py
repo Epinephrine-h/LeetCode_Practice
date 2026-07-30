@@ -3,6 +3,7 @@ class Solution:
         res = cnt = 0
         for num in nums:
             if num == 1:    cnt += 1
-            else:   cnt = 0
-            res = max(res, cnt)
-        return res
+            else:
+                res = max(cnt, res)
+                cnt = 0
+        return max(res, cnt)
