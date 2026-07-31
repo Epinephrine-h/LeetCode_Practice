@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1859-sorting-the-sentence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1859-sorting-the-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1859-sorting-the-sentence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1859-sorting-the-sentence) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
