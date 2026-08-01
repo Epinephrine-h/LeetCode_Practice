@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [0506-relative-ranks](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0605-can-place-flowers) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1137-n-th-tribonacci-number) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 ## Binary Search Tree
 |  |
 | ------- |
