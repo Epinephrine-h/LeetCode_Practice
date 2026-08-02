@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1323-maximum-69-number) |
 | [2485-find-the-pivot-integer](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/2485-find-the-pivot-integer) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0877-stone-game) |
 ## Binary Search Tree
 |  |
 | ------- |
