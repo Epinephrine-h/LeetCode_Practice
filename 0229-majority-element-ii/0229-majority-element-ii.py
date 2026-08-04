@@ -4,6 +4,6 @@ class Solution:
         qualified = len(nums) // 3
         cnt = Counter(nums)
         ans = []
-        for key in cnt.keys():
-            if cnt[key] > qualified:    ans.append(key)
+        for num, fre in cnt.items():
+            if fre > qualified:    ans.append(num)
         return ans
