@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0220-contains-duplicate-iii) |
 | [0228-summary-ranges](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0274-h-index) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0220-contains-duplicate-iii) |
+| [0229-majority-element-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0274-h-index) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -633,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
