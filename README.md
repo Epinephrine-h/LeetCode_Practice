@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0056-merge-intervals) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0063-unique-paths-ii) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0215-kth-largest-element-in-an-array) |
