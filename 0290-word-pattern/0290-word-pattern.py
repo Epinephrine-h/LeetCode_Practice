@@ -5,10 +5,8 @@ class Solution:
         wordList = s.split()
         if len(pattern) != len(wordList):   return False
         for ch, word in zip(pattern, wordList):
-            if ch not in p2s and word not in s2p:
-                p2s[ch] = word
-                s2p[word] = ch
-            if ch not in p2s or word not in s2p:    return False
-            if p2s[ch] == word and s2p[word] == ch: continue
-            else:   return False
+            if (ch in p2s and p2s[ch] != word) or (word in s2p and s2p[word] != ch):
+                return False
+            p2s[ch] = word
+            s2p[word] = ch
         return True
