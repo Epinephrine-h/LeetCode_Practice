@@ -586,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0419-battleships-in-a-board](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0419-battleships-in-a-board) |
+| [0938-range-sum-of-bst](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0938-range-sum-of-bst) |
 | [3310-remove-methods-from-project](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0938-range-sum-of-bst) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0938-range-sum-of-bst) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
