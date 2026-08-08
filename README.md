@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0942-di-string-match) |
+| [0989-add-to-array-form-of-integer](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1122-relative-sort-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1406-stone-game-iii) |
