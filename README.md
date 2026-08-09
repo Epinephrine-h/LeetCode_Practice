@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1122-relative-sort-array) |
+| [1140-stone-game-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1323-maximum-69-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1323-maximum-69-number) |
 | [1406-stone-game-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 | [2485-find-the-pivot-integer](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/2485-find-the-pivot-integer) |
@@ -676,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1406-stone-game-iii) |
 ## Binary Search Tree
 |  |
@@ -692,4 +697,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3310-remove-methods-from-project) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
