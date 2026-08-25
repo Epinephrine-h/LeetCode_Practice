@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0233-number-of-digit-one) |
 | [0338-counting-bits](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0486-predict-the-winner) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0268-missing-number) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/0486-predict-the-winner) |
