@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
