@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/2485-find-the-pivot-integer) |
+| [3903-smallest-stable-index-i](https://github.com/Epinephrine-h/LeetCode_Practice/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
